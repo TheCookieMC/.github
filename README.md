@@ -1,5 +1,4 @@
 ## Welcome to TheCookieMC!
-
 <a href="https://imgbox.com/aeGHZak7" target="_blank"><img src="https://images2.imgbox.com/2c/73/aeGHZak7_o.png" alt="image host"/></a>
 
 Welcome to the offical github page for TheCookieMC! Here, you will find all of our API's information and documentation!
