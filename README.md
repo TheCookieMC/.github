@@ -17,4 +17,4 @@ IP Address: | play.thecookiemc.net
       
 
 ### One last note
-Thanks for checking out our page on GitHub! At this time, we do not have any plans to publish any of our work. The only thing that is currently avalible on our github page is information about our [API](https://github.com/TheCookieMC/API). If you have any questions, you can find more information from staff members in our offical [discord server](https://discord.gg/TSf6rgx4MG). Thanks for stopping by :)
+Thanks for checking out our page on GitHub! The only thing that is currently avalible on our github page is information about our [API](https://github.com/TheCookieMC/API). If you have any questions, you can find more information in our offical [discord server](https://discord.gg/TSf6rgx4MG). Thanks for stopping by :)
